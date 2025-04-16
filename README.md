@@ -1,1 +1,1 @@
-# This is a machine learning classificaion problem for the  Iris Dataset
+# This is a machine learning classification problem for the  Iris Dataset
